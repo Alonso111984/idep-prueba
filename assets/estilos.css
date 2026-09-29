@@ -713,6 +713,7 @@ form textarea{min-height:140px; resize:vertical}
   .apoyar-grid img{max-width:300px; margin:0 auto}
   .aporte-libre{flex-direction:column; align-items:flex-start}
   .valores{gap:18px}
+  .sitios > div + div{margin-top:70px}
   .equipo{max-width:380px}
   .portada{min-height:clamp(400px,calc(74vh - var(--cab)),540px)}
   .pie-grid{gap:clamp(24px,5vw,34px)}
